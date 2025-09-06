@@ -1,0 +1,11 @@
+{
+  "cookie": {
+    "originalMaxAge": null,
+    "expires": null,
+    "httpOnly": true,
+    "path": "/"
+  },
+  "contador": 1,
+  "nombre": "Anakin",
+  "__lastAccess": 1756566779033
+}
